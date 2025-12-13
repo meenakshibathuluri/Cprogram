@@ -1,0 +1,9 @@
+program means : instructions given by the usre to the computer
+
+compiler means it will execute all th lines at a time
+intrpreted means it will execute line by line program
+
+integer : %d
+char : %c
+string : %s
+float : %f 
