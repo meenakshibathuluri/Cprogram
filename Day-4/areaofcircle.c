@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main() {
-     int a, area;
+     int a,area;
      printf("enter the value of a:");
      scanf("%d", &a);
-     area = a*a;
-     printf("area of square is %d",area);
+     area = 3.14*a*a;
+     printf("area of a circle is %d", area);
      return 0;
 }
