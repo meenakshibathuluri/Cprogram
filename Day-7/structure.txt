@@ -1,0 +1,30 @@
+they are 6 
+1.documentation section
+2.preprocessor section
+3.definition section
+4.global declaration section
+5.main section
+6.subprogram section
+
+1.documentation section : 
+ documentation section is used to represent about the program.
+ it will be written using single line or multi line comments.
+ if there is only one line of documentation section use single line comments.
+ if there are multi line of documentation section use multi line comments.
+
+ 2.preprocessor section : 
+ all the header files of the program
+ #include<stdio.h>
+
+ 3.definition section : 
+constant value 
+ex: pi = 3.14
+
+4.global declaration section : 
+if the variable is used in more than one function then we will declare global variable
+
+5. main section : 
+every c program must contain one main function and it is the starting point of the program execution
+
+6.subprogram section : 
+it contain user defined function
