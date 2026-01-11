@@ -1,2 +1,21 @@
 arithimatic opreators : 
+ addition  +
+ sub -
+ mul *
+ div /
+ mod %
+
+ relation opreators : 
+ greater than >
+ lesser than <
+ not equal !=
+ equal to ==
+ greater than or equal to >=
+ lesser than or equal to <=
+
+ logical opreators : 
+ logical and &&
+ logical or  ||
+ logical not !
  
+  
