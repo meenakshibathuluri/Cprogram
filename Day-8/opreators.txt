@@ -18,4 +18,11 @@
  logical or  ||
  logical not !
  
+ 4.bitwise opreators : 
+ bitwise and &
+ bitwise or |
+ bitwise xor ^
+ bitwise complition ~
+ bitwise left shift >>
+ bitwise right shift <<
   
