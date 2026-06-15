@@ -56,13 +56,7 @@ void display()
 int main()
 {
 	enqueue();
-	enqueue();
-	enqueue();
-	enqueue();
-	enqueue();
 	display();
-	dequeue();
-	dequeue();
 	display();
   return 0;
 }
