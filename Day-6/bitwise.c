@@ -1,4 +1,5 @@
 // bitwise and 
+
 #include<stdio.h>
 int main() {
      int a,b;
@@ -9,6 +10,7 @@ int main() {
 }
 
 // bitwise or
+
 #include<stdio.h>
 int main() {
      int a,b;
@@ -20,6 +22,7 @@ int main() {
 
 
 // bitwise XOR
+
 #include<stdio.h>
 int main() {
      int a,b;
@@ -30,6 +33,7 @@ int main() {
 }
 
 // bitwise compliment
+
 #include<stdio.h>
 int main() {
      int a,b;
